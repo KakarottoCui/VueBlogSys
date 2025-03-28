@@ -1,7 +1,7 @@
 # VueBlogSys
 基于SpringBoot和Vue的个人博客系统，使用了elasticsearch、rabbitmq、redis
 
-演示视频链接：https://live.csdn.net/v/197431
+演示视频链接：https://www.bilibili.com/video/BV1y44y1V7S9/
 
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
